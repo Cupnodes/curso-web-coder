@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "name": "Arthur Oliveira",
+            "id": 1,
+            "email": "aroliver@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Patrícia Souza",
+            "id": 2,
+            "email": "pasouza@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Maria Letícia",
+            "id": 3,
+            "email": "marle@gmail.com",
+            "role": "Designer UX"
+        },
+        {
+            "name": "Emídio Paiva",
+            "id": 4,
+            "email": "paiva@gmail.com",
+            "role": "Developer UI"
+        },
+        {
+            "name": "Carlos Felipe",
+            "id": 5,
+            "email": "carlinhos@gmail.com",
+            "role": "Database Enginner"
+        },
+        {
+            "name": "Diego Gadison",
+            "id": 6,
+            "email": "muhhh@gmail.com",
+            "role": "CEO"
+        }
+    ]
+}
